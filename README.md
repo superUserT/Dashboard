@@ -18,5 +18,3 @@ Here are some additional details that you can add to the description:
     The features of the dashboard.
     The benefits of using the dashboard.
     The roadmap for the dashboard.
-
-I hope this helps!
